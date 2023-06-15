@@ -1,2 +1,2 @@
 # siPay
-Sistemas de pagamentos digitais
+Sistema de pagamentos digitais
